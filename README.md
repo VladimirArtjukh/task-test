@@ -17,6 +17,8 @@ Steps for install:
 
 9. run command `docker-compose run --rm npm run build`
 
+Application will be available by url http://localhost:1001/ 
+
 The laravel application is in the src folder.
 
 
